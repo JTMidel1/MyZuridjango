@@ -1,0 +1,2 @@
+# MyZuridjango
+django zuri tasks
